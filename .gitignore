@@ -1,0 +1,5 @@
+# Ignore secret key file
+/secretKey
+
+# Ignore the cuisine directory
+/cuisine
