@@ -1,1 +1,1 @@
-token="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"
+token="hf_token"
